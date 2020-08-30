@@ -1,0 +1,37 @@
+html, body {
+    background: rgb(167, 201, 108);
+    font-family: 'Quicksand';
+    margin: 0;
+}
+
+.hero-img {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    background-image: linear-gradient(rgba(214, 214, 214, 0.5), rgba(31, 31, 31, 0.5)), url("images/headingImg.jpg");
+    background-size: cover;
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+ 
+.hero-txt {
+    display: flex;
+    font-size: 2em;
+    color: rgba(9, 3, 44, 0.5);
+
+}
+
+/* .headshot {
+    padding: 1em;
+    margin: 1em 1em;
+} */
+
+
+
+
+
+
+
+
